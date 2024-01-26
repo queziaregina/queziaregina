@@ -1,10 +1,14 @@
 <h2>Oii, eu sou a Quezia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h4></h4>
 
+🚀 Bem-vindo ao meu universo de código! Aqui você encontrará projetos incríveis, aprendizados constantes e uma paixão por tecnologia.
+
+## ✨ Sobre Mim
+
 - 🔭 Cursando o 5º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <a href="https://www.unasp.br/">UNASP</a>. 
 - 🌱 Aprendendo mais sobre <strong>HTML5, CSS3, JavaScript</strong> .
 
-##
+## 🌐 Vamos Conectar!
 
 <div>
     <a href="https://www.linkedin.com/in/quezia-regina-044159209/" target="_blank">
