@@ -5,7 +5,7 @@
 
 ## ✨ Sobre Mim
 
-- 🔭 Cursando o 5º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <a href="https://www.unasp.br/">UNASP</a>. 
+- 🔭 Recém-formada em <strong>Análise e Desenvolvimento de Sistemas</strong> no <a href="https://www.unasp.br/">UNASP</a>. 
 - 🌱 Aprendendo mais sobre <strong>HTML5, CSS3, JavaScript</strong> .
 
 ## 🌐 Vamos Conectar!
